@@ -7,5 +7,4 @@
 ## Screenshot for the app
 
 <br/>
-<br/>
 <img src="https://github.com/Nidal-J/Bio/blob/master/screenshots/app_screenshot.png" width=350 heigth=800/>
